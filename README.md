@@ -1,3 +1,2 @@
-The name's bom.
-very interested in clients and autoplaying things.
-currently working on Bom Client
+c++ and java developer
+sometimes i do blender and fusion 360
