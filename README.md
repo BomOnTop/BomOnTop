@@ -1,2 +1,5 @@
-c++ and java developer
-sometimes i do blender and fusion 360
+making things easier...
+
+
+c++ and java dev
+enthusiast of unreal, blender, fusion 360
